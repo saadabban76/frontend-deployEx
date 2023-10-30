@@ -20,8 +20,9 @@ function App() {
         <RecoilRoot>
             <div style={{width: "100vw",
                 height: "100vh",
-                backgroundColor: "#eeeeee"}}
+                backgroundColor: "#2b2b2b"}}
             >
+                <h1>Working ?</h1>
                     <Router>
                         <Appbar />
                         <InitUser />
